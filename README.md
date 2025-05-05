@@ -179,6 +179,14 @@ Proje, **Render** platformunda deploy edilmiştir. Web uygulamasına aşağıdak
 
 Uygulama, kullanıcıların görsellerini yükleyip anında model tahminleri almasını sağlayacak şekilde canlı olarak çalışmaktadır. Herhangi bir hata ya da performans sorunu ile karşılaşırsanız, proje üzerinde güncellemeler yapılarak çözüm sağlanacaktır.
 
+### Render'da Deploy Ayarları
+
+- **Build Command**:  
+  `pip install -r requirements.txt`
+
+- **Start Command**:  
+  `streamlit run streamlit_app.py --server.port=8502`
+
 ---
 
 ## 📚 Katkıda Bulunma
