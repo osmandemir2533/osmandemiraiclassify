@@ -166,8 +166,23 @@ Uygulamanın temel özellikleri şu şekildedir:
 3. **Sonuçları Görme**: Sağ panelde, yüklediğiniz fotoğrafın tahmin edilen sınıfı ve modelin güven skoru görüntülenecektir.
 4. **Temizleme**: Görseli ve sonucu temizlemek için "Temizle" butonuna tıklayın.
 
-### Kullanıcı Arayüzü
+---
+
+## 🎨 Arayüz 
+
 Uygulama, kullanımı oldukça basit ve etkileşimli bir arayüze sahiptir. Gerekli talimatlar, arayüz üzerinde net bir şekilde sağlanmıştır.
+
+<div align="center">
+  <!-- İlk satırda 2 resim -->
+  <img src="https://github.com/user-attachments/assets/b755c852-8b36-43be-bfea-e4b18f40bd2a" alt="Arayüz Resmi 1" width="450" height="250" style="margin-right: 20px; margin-bottom: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d76e51b8-498f-4a3c-bdc2-70e189ec1e71" alt="Arayüz Resmi 2" width="450" height="250" style="margin-bottom: 20px;">
+</div>
+&nbsp;&nbsp;&nbsp;
+<div align="center" style="margin-top: 20px;">
+  <!-- İkinci satırda 2 resim -->
+  <img src="https://github.com/user-attachments/assets/c115b447-3ed7-4406-8045-2045754915e9" alt="Arayüz Resmi 3" width="450" height="250" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fb1192a0-5a43-4889-a8a8-469099a8c6a9" alt="Arayüz Resmi 4" width="450" height="250" style="margin-top: 20px;">
+</div>
 
 ---
 
