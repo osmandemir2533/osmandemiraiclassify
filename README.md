@@ -173,25 +173,25 @@ Uygulamanın temel özellikleri şu şekildedir:
 Uygulama, kullanımı oldukça basit ve etkileşimli bir arayüze sahiptir. Gerekli talimatlar, arayüz üzerinde net bir şekilde sağlanmıştır.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b755c852-8b36-43be-bfea-e4b18f40bd2a" alt="Arayüz Resmi 1" width="80%" style="margin-bottom: 20px; display: block; margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/37c24963-a259-43fe-b5ad-ef05c9761d17" alt="Arayüz Resmi 1" width="80%" style="margin-bottom: 20px; display: block; margin-top: 20px;">
 </div>
 
 <hr style="border: 0.25px solid #ccc; margin-top: 20px; margin-bottom: 20px;">
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d76e51b8-498f-4a3c-bdc2-70e189ec1e71" alt="Arayüz Resmi 2" width="80%" style="margin-bottom: 20px; display: block; margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/573a2fce-eeb8-4578-84e6-be1d1c185ea1" alt="Arayüz Resmi 2" width="80%" style="margin-bottom: 20px; display: block; margin-top: 20px;">
 </div>
 
 <hr style="border: 0.25px solid #ccc; margin-top: 20px; margin-bottom: 20px;">
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1856e89a-6643-4220-92e5-71a6548cce88" alt="Arayüz Resmi 3" width="80%" style="margin-bottom: 20px; display: block; margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/4b8b0628-1584-40cb-9c9b-1b28f8efc685" alt="Arayüz Resmi 3" width="80%" style="margin-bottom: 20px; display: block; margin-top: 20px;">
 </div>
 
 <hr style="border: 0.25px solid #ccc; margin-top: 20px; margin-bottom: 20px;">
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5e55d274-2a3a-4208-aeab-7d047d85cec1" alt="Arayüz Resmi 4" width="30%" style="margin-top: 20px; margin-bottom: 20px; display: block;">
+  <img src="https://github.com/user-attachments/assets/6d5716a0-3ab3-47a9-be01-3dbceefc723a" alt="Arayüz Resmi 4" width="30%" style="margin-top: 20px; margin-bottom: 20px; display: block;">
 </div>
 
 ---
