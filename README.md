@@ -7,7 +7,7 @@ sdk: streamlit
 sdk_version: "1.10.0"
 app_file: streamlit_app.py
 pinned: true
----
+--- 
 
 # Animal10 AI Classify
 
